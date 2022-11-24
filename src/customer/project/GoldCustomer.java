@@ -1,5 +1,5 @@
 package customer.project;
-
+ 
 public class GoldCustomer extends Customer {
 
 	double saleRatio;

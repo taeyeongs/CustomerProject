@@ -1,5 +1,5 @@
 package customer.project;
-
+ 
 public class Customer {
 	// 필드
 	protected int customerID;
