@@ -1,5 +1,5 @@
 package customer.project;
- 
+
 public class VIPCustomer extends Customer {
 
 	private int agentID;
